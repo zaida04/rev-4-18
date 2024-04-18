@@ -1,4 +1,4 @@
-package calculator.ops;
+package calculator;
 
 import calculator.Calc;
 
